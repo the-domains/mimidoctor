@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Photographer]]></title>
         <description><![CDATA[Photographer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mimidoctor/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 14:55:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jan 2016 14:56:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mimidoctor/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93302e09-7672-4237-8cf8-024d8baf0f04.jpg">]]></description>
-            <link>undefinedc6043c12-fdc5-4ecd-8127-e469fea12c72/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/12749b412203501345253a71009099c12fb15b6d.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/mimidoctor/c6043c12-fdc5-4ecd-8127-e469fea12c72/index.html</link>
             <guid isPermaLink="false">c6043c12-fdc5-4ecd-8127-e469fea12c72</guid>
-            <pubDate>Thu, 14 Jan 2016 14:55:46 GMT</pubDate>
+            <pubDate>Thu, 14 Jan 2016 14:56:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
