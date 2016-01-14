@@ -1,6 +1,6 @@
 name: mimidoctor
 favicon: null
-layout_spectrum: 0.22387
+layout_spectrum: 0
 typography_spectrum: 0.4677
 title: Photographer
 cta:
@@ -24,6 +24,6 @@ color:
     - '#942c21'
   brandStrength: 0.5595536804758012
   lightness: 0.6218005083501339
-  saturation: 0.22801079461351037
+  saturation: 0.5
   rhythmicContrast: 0.3593891174532473
 purpose: []
